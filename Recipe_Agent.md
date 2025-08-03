@@ -53,6 +53,37 @@ To reduce food waste and save time by suggesting recipes based on available ingr
 ---
 
 ## 💻 Local Setup (Optional)
+📌 Use Cases
+Home cooking with limited ingredients
+
+Health-focused meal planning
+
+Cooking education and training
+
+Reducing kitchen waste
+
+🔮 Future Scope
+Multi-cuisine support (North Indian, Chinese, etc.)
+
+Dietary filters: vegan, diabetic, keto
+
+Voice-based interaction
+
+Real-time calorie tracking
+
+🧾 IBM Cloud Services Used
+IBM Watsonx AI Studio
+
+IBM Watsonx Assistant (Agent Lab)
+
+IBM Watsonx Runtime
+
+IBM Granite Foundation Model
+
+IBM Cloud Vector Store
+
+IBM Cloud Object Storage (optional)
+
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/recipe-preparation-agent.git
