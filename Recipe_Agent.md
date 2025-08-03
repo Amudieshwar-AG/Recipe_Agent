@@ -90,9 +90,7 @@ git clone https://github.com/YOUR_USERNAME/recipe-preparation-agent.git
 cd recipe-preparation-agent
 pip install -r requirements.txt
 python app.py
-## 🖼️ Screenshot
 
-Here’s a preview of the Recipe Agent in action:
 
-![Chat Preview]("D:\internships\edunet ibm\pictures for project\Screenshot 2025-08-03 115332.png".png)
+
 
