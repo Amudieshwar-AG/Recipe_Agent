@@ -83,13 +83,16 @@ IBM Granite Foundation Model
 IBM Cloud Vector Store
 
 IBM Cloud Object Storage (optional)
-
+Project link:
+https://dataplatform.cloud.ibm.com/ml-runtime/deployments/18df68d9-5861-4a88-9f6b-d5be2be662ae/implementation?space_id=debf439b-fa4f-4738-b109-c840fe08a26f&context=wx&flush=true
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/recipe-preparation-agent.git
 cd recipe-preparation-agent
 pip install -r requirements.txt
 python app.py
+
+
 
 
 
