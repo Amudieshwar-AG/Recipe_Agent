@@ -8,7 +8,7 @@ This AI-powered assistant helps users prepare South Indian dishes based on the i
 ## 🚀 Live Demo
 
 > 👇 Try it here (IBM Cloud Deployment):
-[🔗 Live Demo Link (replace with your Watsonx link)](https://your-ibm-cloud-link)
+[🔗 Live Demo Link (replace with your Watsonx link)](https://dataplatform.cloud.ibm.com/ml-runtime/deployments/18df68d9-5861-4a88-9f6b-d5be2be662ae/implementation?space_id=debf439b-fa4f-4738-b109-c840fe08a26f&context=wx&flush=true)
 
 ---
 
